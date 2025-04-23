@@ -8,7 +8,7 @@
 
 ┌──(Senzukisu@github)─[~/projects]
 └─$ whoami
-Senzukisu
+Senzuki
 
 ┌──(Senzukisu@github)─[~/projects]
 └─$ whatido
@@ -23,6 +23,13 @@ Learning & building with ⚙️ Rust
 ┌──(Senzukisu@github)─[~/projects]
 └─$ status
 [▓░░░░░░░░░░░] 05% - leveling up...
+
+┌──(Senzukisu@github)─[~/projects]
+└─$ cargo build --release
+   Compiling project_core v0.1.0
+   Compiling magic_crate v0.1.0
+   Finished release [optimized] target(s) in 3.14s
+   → Ready to deploy 🚀
 
 ┌──(Senzukisu@github)─[~/projects]
 └─$ github
